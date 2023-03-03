@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cat</string>
+    <string name="successful_search" >Кот нашелся</string>
+</resources>
